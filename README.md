@@ -17,7 +17,7 @@ python godot-stex-to-png.py input.stex
 https://github.com/godotengine/godot/blob/a3bcca8c79a35a4e97c385165183861bc997ddbd/editor/import/resource_importer_image.cpp
 https://www.reddit.com/r/godot/comments/n178h2/convert_stex_back_to_png/gwb9ui3/
 
-As such, this tool was created to further automate the process.
+As such, this tool was created to further automate the process by just trimming said 32 bits of data from the .stex file using python
 
 If you wish to run the script on all files in a folder, you could consider using unix: 
 https://askubuntu.com/questions/1037186/bash-script-to-run-python-script-for-all-images-in-all-subdirectories
