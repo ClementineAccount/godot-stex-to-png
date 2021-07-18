@@ -18,4 +18,5 @@ https://www.reddit.com/r/godot/comments/n178h2/convert_stex_back_to_png/gwb9ui3/
 
 As such, this tool was created to further automate the process.
 
-If you wish to run the script on all files in a folder, you could consider using unix: https://askubuntu.com/questions/1037186/bash-script-to-run-python-script-for-all-images-in-all-subdirectories
+If you wish to run the script on all files in a folder, you could consider using unix: 
+https://askubuntu.com/questions/1037186/bash-script-to-run-python-script-for-all-images-in-all-subdirectories
