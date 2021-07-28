@@ -7,7 +7,7 @@ if len(sys.argv) > 1:
     inputFile = open(filename, 'rb')
     outputFile = open(filename + '-output.png', 'wb')
 
-    # 32 bits is based off the .stex header which are primmed for png
+    # 32 bits is based off the .stex header which are trimmed for png
     inputFile.seek(32)
 
     while 1:
