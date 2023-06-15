@@ -17,7 +17,7 @@ python godot-stex-to-png.py input.stex
 
 - [Godot Source Code where .stex files are read](https://github.com/godotengine/godot/blob/master/editor/import/resource_importer_image.cpp#L73)
 
-- [Reddit post asking about .stex files](https://www.reddit.com/r/godot/comments/n178h2/convert_stex_back_to_png/gwb9ui3/)
+- [Reddit post asking about .stex files](https://web.archive.org/web/20230615102220/https://old.reddit.com/r/godot/comments/n178h2/convert_stex_back_to_png/gwb9ui3/)
 
 As such, this tool was created to further automate the process by just trimming said 32 bits of data from the .stex file using python
 
