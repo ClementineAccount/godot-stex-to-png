@@ -1,5 +1,7 @@
 # godot-stex-to-png
 
+Archived as of 2023-06-15 as godot-unpacker now contains functionality to convert .stex files directly to .png files, and as such this script is now made redundant 
+
 This script converts Godot stex files to standard png files. This is mainly used in combination with a tool that unpacks Godot .pck files 
 like [godot-unpacker](https://github.com/tehskai/godot-unpacker).
 
